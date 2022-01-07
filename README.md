@@ -19,14 +19,10 @@ In this repository, I'm going to build a Flask application that allows login and
 
 Install and update using `pip`\_:
 
-.. code-block:: text
-
     $ pip install -U Flask
     $ pipenv install Flask PyMySQL
 
 .. \_pip: https://pip.pypa.io/en/stable/getting-started/
-
-.. code-block:: text
 
     $ flask run
       * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
