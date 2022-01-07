@@ -13,8 +13,6 @@ In this repository, I'm going to build a Flask application that allows login and
 
 <img src="login_res ERD.png">
 
-## To Start
-
 ## Installing
 
 Install and update using `pip`\_:
@@ -26,3 +24,7 @@ Install and update using `pip`\_:
 
     $ flask run
       * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+##
+
+<img src="img.png">
